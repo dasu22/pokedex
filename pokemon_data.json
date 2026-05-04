@@ -1,0 +1,10252 @@
+[
+  {
+    "caught": true,
+    "number": 1,
+    "name": "Bulbasaur",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 2,
+    "name": "Ivysaur",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 3,
+    "name": "Venusaur",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 4,
+    "name": "Charmander",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 5,
+    "name": "Charmeleon",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 6,
+    "name": "Charizard",
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 7,
+    "name": "Squirtle",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 8,
+    "name": "Wartortle",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 9,
+    "name": "Blastoise",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 10,
+    "name": "Caterpie",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 11,
+    "name": "Metapod",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 12,
+    "name": "Butterfree",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 13,
+    "name": "Weedle",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 14,
+    "name": "Kakuna",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 15,
+    "name": "Beedrill",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 16,
+    "name": "Pidgey",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 17,
+    "name": "Pidgeotto",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 18,
+    "name": "Pidgeot",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 19,
+    "name": "Rattata",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 20,
+    "name": "Raticate",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 21,
+    "name": "Spearow",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 22,
+    "name": "Fearow",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 23,
+    "name": "Ekans",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 24,
+    "name": "Arbok",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 25,
+    "name": "Pikachu",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 26,
+    "name": "Raichu",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 27,
+    "name": "Sandshrew",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 28,
+    "name": "Sandslash",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 29,
+    "name": "Nidoran♀",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 30,
+    "name": "Nidorina",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 31,
+    "name": "Nidoqueen",
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 32,
+    "name": "Nidoran♂",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 33,
+    "name": "Nidorino",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 34,
+    "name": "Nidoking",
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 35,
+    "name": "Clefairy",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 36,
+    "name": "Clefable",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 37,
+    "name": "Vulpix",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 38,
+    "name": "Ninetales",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 39,
+    "name": "Jigglypuff",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 40,
+    "name": "Wigglytuff",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 41,
+    "name": "Zubat",
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 42,
+    "name": "Golbat",
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 43,
+    "name": "Oddish",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 44,
+    "name": "Gloom",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 45,
+    "name": "Vileplume",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 46,
+    "name": "Paras",
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 47,
+    "name": "Parasect",
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 48,
+    "name": "Venonat",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 49,
+    "name": "Venomoth",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 50,
+    "name": "Diglett",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 51,
+    "name": "Dugtrio",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 52,
+    "name": "Meowth",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 53,
+    "name": "Persian",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 54,
+    "name": "Psyduck",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 55,
+    "name": "Golduck",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 56,
+    "name": "Mankey",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 57,
+    "name": "Primeape",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 58,
+    "name": "Growlithe",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 59,
+    "name": "Arcanine",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 60,
+    "name": "Poliwag",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 61,
+    "name": "Poliwhirl",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 62,
+    "name": "Poliwrath",
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 63,
+    "name": "Abra",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 64,
+    "name": "Kadabra",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 65,
+    "name": "Alakazam",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 66,
+    "name": "Machop",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 67,
+    "name": "Machoke",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 68,
+    "name": "Machamp",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 69,
+    "name": "Bellsprout",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 70,
+    "name": "Weepinbell",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 71,
+    "name": "Victreebel",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 72,
+    "name": "Tentacool",
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 73,
+    "name": "Tentacruel",
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 74,
+    "name": "Geodude",
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 75,
+    "name": "Graveler",
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 76,
+    "name": "Golem",
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 77,
+    "name": "Ponyta",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 78,
+    "name": "Rapidash",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 79,
+    "name": "Slowpoke",
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 80,
+    "name": "Slowbro",
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 81,
+    "name": "Magnemite",
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 82,
+    "name": "Magneton",
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 83,
+    "name": "Farfetch'd",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 84,
+    "name": "Doduo",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 85,
+    "name": "Dodrio",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 86,
+    "name": "Seel",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 87,
+    "name": "Dewgong",
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 88,
+    "name": "Grimer",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 89,
+    "name": "Muk",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 90,
+    "name": "Shellder",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 91,
+    "name": "Cloyster",
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 92,
+    "name": "Gastly",
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 93,
+    "name": "Haunter",
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 94,
+    "name": "Gengar",
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 95,
+    "name": "Onix",
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 96,
+    "name": "Drowzee",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 97,
+    "name": "Hypno",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 98,
+    "name": "Krabby",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 99,
+    "name": "Kingler",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 100,
+    "name": "Voltorb",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 101,
+    "name": "Electrode",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 102,
+    "name": "Exeggcute",
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 103,
+    "name": "Exeggutor",
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 104,
+    "name": "Cubone",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 105,
+    "name": "Marowak",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 106,
+    "name": "Hitmonlee",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 107,
+    "name": "Hitmonchan",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 108,
+    "name": "Lickitung",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 109,
+    "name": "Koffing",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 110,
+    "name": "Weezing",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 111,
+    "name": "Rhyhorn",
+    "type1": "Ground",
+    "type2": "Rock",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 112,
+    "name": "Rhydon",
+    "type1": "Ground",
+    "type2": "Rock",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 113,
+    "name": "Chansey",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 114,
+    "name": "Tangela",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 115,
+    "name": "Kangaskhan",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 116,
+    "name": "Horsea",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 117,
+    "name": "Seadra",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 118,
+    "name": "Goldeen",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 119,
+    "name": "Seaking",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 120,
+    "name": "Staryu",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 121,
+    "name": "Starmie",
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 122,
+    "name": "Mr. Mime",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 123,
+    "name": "Scyther",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 124,
+    "name": "Jynx",
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 125,
+    "name": "Electabuzz",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 126,
+    "name": "Magmar",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 127,
+    "name": "Pinsir",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 128,
+    "name": "Tauros",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 129,
+    "name": "Magikarp",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 130,
+    "name": "Gyarados",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 131,
+    "name": "Lapras",
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 132,
+    "name": "Ditto",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 133,
+    "name": "Eevee",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 134,
+    "name": "Vaporeon",
+    "type1": "Water",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 135,
+    "name": "Jolteon",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 136,
+    "name": "Flareon",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 137,
+    "name": "Porygon",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 138,
+    "name": "Omanyte",
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 139,
+    "name": "Omastar",
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 140,
+    "name": "Kabuto",
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 141,
+    "name": "Kabutops",
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 142,
+    "name": "Aerodactyl",
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 143,
+    "name": "Snorlax",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 144,
+    "name": "Articuno",
+    "type1": "Ice",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 145,
+    "name": "Zapdos",
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 146,
+    "name": "Moltres",
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 147,
+    "name": "Dratini",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 148,
+    "name": "Dragonair",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 149,
+    "name": "Dragonite",
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 150,
+    "name": "Mewtwo",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 151,
+    "name": "Mew",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 1,
+    "region": "Kanto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 152,
+    "name": "Chikorita",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 153,
+    "name": "Bayleef",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 154,
+    "name": "Meganium",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 155,
+    "name": "Cyndaquil",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 156,
+    "name": "Quilava",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 157,
+    "name": "Typhlosion",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 158,
+    "name": "Totodile",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 159,
+    "name": "Croconaw",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 160,
+    "name": "Feraligatr",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 161,
+    "name": "Sentret",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 162,
+    "name": "Furret",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 163,
+    "name": "Hoothoot",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 164,
+    "name": "Noctowl",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 165,
+    "name": "Ledyba",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 166,
+    "name": "Ledian",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 167,
+    "name": "Spinarak",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 168,
+    "name": "Ariados",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 169,
+    "name": "Crobat",
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 170,
+    "name": "Chinchou",
+    "type1": "Water",
+    "type2": "Electric",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 171,
+    "name": "Lanturn",
+    "type1": "Water",
+    "type2": "Electric",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 172,
+    "name": "Pichu",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 173,
+    "name": "Cleffa",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 174,
+    "name": "Igglybuff",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 175,
+    "name": "Togepi",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 176,
+    "name": "Togetic",
+    "type1": "Fairy",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 177,
+    "name": "Natu",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 178,
+    "name": "Xatu",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 179,
+    "name": "Mareep",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 180,
+    "name": "Flaaffy",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 181,
+    "name": "Ampharos",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 182,
+    "name": "Bellossom",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 183,
+    "name": "Marill",
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 184,
+    "name": "Azumarill",
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 185,
+    "name": "Sudowoodo",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 186,
+    "name": "Politoed",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 187,
+    "name": "Hoppip",
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 188,
+    "name": "Skiploom",
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 189,
+    "name": "Jumpluff",
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 190,
+    "name": "Aipom",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 191,
+    "name": "Sunkern",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 192,
+    "name": "Sunflora",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 193,
+    "name": "Yanma",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 194,
+    "name": "Wooper",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 195,
+    "name": "Quagsire",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 196,
+    "name": "Espeon",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 197,
+    "name": "Umbreon",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 198,
+    "name": "Murkrow",
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 199,
+    "name": "Slowking",
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 200,
+    "name": "Misdreavus",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 201,
+    "name": "Unown",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 202,
+    "name": "Wobbuffet",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 203,
+    "name": "Girafarig",
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 204,
+    "name": "Pineco",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 205,
+    "name": "Forretress",
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 206,
+    "name": "Dunsparce",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 207,
+    "name": "Gligar",
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 208,
+    "name": "Steelix",
+    "type1": "Steel",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 209,
+    "name": "Snubbull",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 210,
+    "name": "Granbull",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 211,
+    "name": "Qwilfish",
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 212,
+    "name": "Scizor",
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 213,
+    "name": "Shuckle",
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 214,
+    "name": "Heracross",
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 215,
+    "name": "Sneasel",
+    "type1": "Dark",
+    "type2": "Ice",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 216,
+    "name": "Teddiursa",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 217,
+    "name": "Ursaring",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 218,
+    "name": "Slugma",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 219,
+    "name": "Magcargo",
+    "type1": "Fire",
+    "type2": "Rock",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 220,
+    "name": "Swinub",
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 221,
+    "name": "Piloswine",
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 222,
+    "name": "Corsola",
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 223,
+    "name": "Remoraid",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 224,
+    "name": "Octillery",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 225,
+    "name": "Delibird",
+    "type1": "Ice",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 226,
+    "name": "Mantine",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 227,
+    "name": "Skarmory",
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 228,
+    "name": "Houndour",
+    "type1": "Dark",
+    "type2": "Fire",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 229,
+    "name": "Houndoom",
+    "type1": "Dark",
+    "type2": "Fire",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 230,
+    "name": "Kingdra",
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 231,
+    "name": "Phanpy",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 232,
+    "name": "Donphan",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 233,
+    "name": "Porygon2",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 234,
+    "name": "Stantler",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 235,
+    "name": "Smeargle",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 236,
+    "name": "Tyrogue",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 237,
+    "name": "Hitmontop",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 238,
+    "name": "Smoochum",
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 239,
+    "name": "Elekid",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 240,
+    "name": "Magby",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 241,
+    "name": "Miltank",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 242,
+    "name": "Blissey",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 243,
+    "name": "Raikou",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 244,
+    "name": "Entei",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 245,
+    "name": "Suicune",
+    "type1": "Water",
+    "type2": "",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 246,
+    "name": "Larvitar",
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 247,
+    "name": "Pupitar",
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 248,
+    "name": "Tyranitar",
+    "type1": "Rock",
+    "type2": "Dark",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 249,
+    "name": "Lugia",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 250,
+    "name": "Ho-Oh",
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 251,
+    "name": "Celebi",
+    "type1": "Psychic",
+    "type2": "Grass",
+    "generation": 2,
+    "region": "Johto",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 252,
+    "name": "Treecko",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 253,
+    "name": "Grovyle",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 254,
+    "name": "Sceptile",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 255,
+    "name": "Torchic",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 256,
+    "name": "Combusken",
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 257,
+    "name": "Blaziken",
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 258,
+    "name": "Mudkip",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 259,
+    "name": "Marshtomp",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 260,
+    "name": "Swampert",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 261,
+    "name": "Poochyena",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 262,
+    "name": "Mightyena",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 263,
+    "name": "Zigzagoon",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 264,
+    "name": "Linoone",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 265,
+    "name": "Wurmple",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 266,
+    "name": "Silcoon",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 267,
+    "name": "Beautifly",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 268,
+    "name": "Cascoon",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 269,
+    "name": "Dustox",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 270,
+    "name": "Lotad",
+    "type1": "Water",
+    "type2": "Grass",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 271,
+    "name": "Lombre",
+    "type1": "Water",
+    "type2": "Grass",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 272,
+    "name": "Ludicolo",
+    "type1": "Water",
+    "type2": "Grass",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 273,
+    "name": "Seedot",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 274,
+    "name": "Nuzleaf",
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 275,
+    "name": "Shiftry",
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 276,
+    "name": "Taillow",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 277,
+    "name": "Swellow",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 278,
+    "name": "Wingull",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 279,
+    "name": "Pelipper",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 280,
+    "name": "Ralts",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 281,
+    "name": "Kirlia",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 282,
+    "name": "Gardevoir",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 283,
+    "name": "Surskit",
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 284,
+    "name": "Masquerain",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 285,
+    "name": "Shroomish",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 286,
+    "name": "Breloom",
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 287,
+    "name": "Slakoth",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 288,
+    "name": "Vigoroth",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 289,
+    "name": "Slaking",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 290,
+    "name": "Nincada",
+    "type1": "Bug",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 291,
+    "name": "Ninjask",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 292,
+    "name": "Shedinja",
+    "type1": "Bug",
+    "type2": "Ghost",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 293,
+    "name": "Whismur",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 294,
+    "name": "Loudred",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 295,
+    "name": "Exploud",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 296,
+    "name": "Makuhita",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 297,
+    "name": "Hariyama",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 298,
+    "name": "Azurill",
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 299,
+    "name": "Nosepass",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 300,
+    "name": "Skitty",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 301,
+    "name": "Delcatty",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 302,
+    "name": "Sableye",
+    "type1": "Dark",
+    "type2": "Ghost",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 303,
+    "name": "Mawile",
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 304,
+    "name": "Aron",
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 305,
+    "name": "Lairon",
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 306,
+    "name": "Aggron",
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 307,
+    "name": "Meditite",
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 308,
+    "name": "Medicham",
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 309,
+    "name": "Electrike",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 310,
+    "name": "Manectric",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 311,
+    "name": "Plusle",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 312,
+    "name": "Minun",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 313,
+    "name": "Volbeat",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 314,
+    "name": "Illumise",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 315,
+    "name": "Roselia",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 316,
+    "name": "Gulpin",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 317,
+    "name": "Swalot",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 318,
+    "name": "Carvanha",
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 319,
+    "name": "Sharpedo",
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 320,
+    "name": "Wailmer",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 321,
+    "name": "Wailord",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 322,
+    "name": "Numel",
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 323,
+    "name": "Camerupt",
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 324,
+    "name": "Torkoal",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 325,
+    "name": "Spoink",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 326,
+    "name": "Grumpig",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 327,
+    "name": "Spinda",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 328,
+    "name": "Trapinch",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 329,
+    "name": "Vibrava",
+    "type1": "Ground",
+    "type2": "Dragon",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 330,
+    "name": "Flygon",
+    "type1": "Ground",
+    "type2": "Dragon",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 331,
+    "name": "Cacnea",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 332,
+    "name": "Cacturne",
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 333,
+    "name": "Swablu",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 334,
+    "name": "Altaria",
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 335,
+    "name": "Zangoose",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 336,
+    "name": "Seviper",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 337,
+    "name": "Lunatone",
+    "type1": "Rock",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 338,
+    "name": "Solrock",
+    "type1": "Rock",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 339,
+    "name": "Barboach",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 340,
+    "name": "Whiscash",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 341,
+    "name": "Corphish",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 342,
+    "name": "Crawdaunt",
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 343,
+    "name": "Baltoy",
+    "type1": "Ground",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 344,
+    "name": "Claydol",
+    "type1": "Ground",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 345,
+    "name": "Lileep",
+    "type1": "Rock",
+    "type2": "Grass",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 346,
+    "name": "Cradily",
+    "type1": "Rock",
+    "type2": "Grass",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 347,
+    "name": "Anorith",
+    "type1": "Rock",
+    "type2": "Bug",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 348,
+    "name": "Armaldo",
+    "type1": "Rock",
+    "type2": "Bug",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 349,
+    "name": "Feebas",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 350,
+    "name": "Milotic",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 351,
+    "name": "Castform",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 352,
+    "name": "Kecleon",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 353,
+    "name": "Shuppet",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 354,
+    "name": "Banette",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 355,
+    "name": "Duskull",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 356,
+    "name": "Dusclops",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 357,
+    "name": "Tropius",
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 358,
+    "name": "Chimecho",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 359,
+    "name": "Absol",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 360,
+    "name": "Wynaut",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 361,
+    "name": "Snorunt",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 362,
+    "name": "Glalie",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 363,
+    "name": "Spheal",
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 364,
+    "name": "Sealeo",
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 365,
+    "name": "Walrein",
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 366,
+    "name": "Clamperl",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 367,
+    "name": "Huntail",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 368,
+    "name": "Gorebyss",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 369,
+    "name": "Relicanth",
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 370,
+    "name": "Luvdisc",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 371,
+    "name": "Bagon",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 372,
+    "name": "Shelgon",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 373,
+    "name": "Salamence",
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 374,
+    "name": "Beldum",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 375,
+    "name": "Metang",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 376,
+    "name": "Metagross",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 377,
+    "name": "Regirock",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 378,
+    "name": "Regice",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 379,
+    "name": "Registeel",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 380,
+    "name": "Latias",
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 381,
+    "name": "Latios",
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 382,
+    "name": "Kyogre",
+    "type1": "Water",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 383,
+    "name": "Groudon",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 384,
+    "name": "Rayquaza",
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 385,
+    "name": "Jirachi",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 386,
+    "name": "Deoxys",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 3,
+    "region": "Hoenn",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 387,
+    "name": "Turtwig",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 388,
+    "name": "Grotle",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 389,
+    "name": "Torterra",
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 390,
+    "name": "Chimchar",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 391,
+    "name": "Monferno",
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 392,
+    "name": "Infernape",
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 393,
+    "name": "Piplup",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 394,
+    "name": "Prinplup",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 395,
+    "name": "Empoleon",
+    "type1": "Water",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 396,
+    "name": "Starly",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 397,
+    "name": "Staravia",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 398,
+    "name": "Staraptor",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 399,
+    "name": "Bidoof",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 400,
+    "name": "Bibarel",
+    "type1": "Normal",
+    "type2": "Water",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 401,
+    "name": "Kricketot",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 402,
+    "name": "Kricketune",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 403,
+    "name": "Shinx",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 404,
+    "name": "Luxio",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 405,
+    "name": "Luxray",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 406,
+    "name": "Budew",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 407,
+    "name": "Roserade",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 408,
+    "name": "Cranidos",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 409,
+    "name": "Rampardos",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 410,
+    "name": "Shieldon",
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 411,
+    "name": "Bastiodon",
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 412,
+    "name": "Burmy",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 413,
+    "name": "Wormadam",
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 414,
+    "name": "Mothim",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 415,
+    "name": "Combee",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 416,
+    "name": "Vespiquen",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 417,
+    "name": "Pachirisu",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 418,
+    "name": "Buizel",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 419,
+    "name": "Floatzel",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 420,
+    "name": "Cherubi",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 421,
+    "name": "Cherrim",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 422,
+    "name": "Shellos",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 423,
+    "name": "Gastrodon",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 424,
+    "name": "Ambipom",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 425,
+    "name": "Drifloon",
+    "type1": "Ghost",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 426,
+    "name": "Drifblim",
+    "type1": "Ghost",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 427,
+    "name": "Buneary",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 428,
+    "name": "Lopunny",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 429,
+    "name": "Mismagius",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 430,
+    "name": "Honchkrow",
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 431,
+    "name": "Glameow",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 432,
+    "name": "Purugly",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 433,
+    "name": "Chingling",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 434,
+    "name": "Stunky",
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 435,
+    "name": "Skuntank",
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 436,
+    "name": "Bronzor",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 437,
+    "name": "Bronzong",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 438,
+    "name": "Bonsly",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 439,
+    "name": "Mime Jr.",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 440,
+    "name": "Happiny",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 441,
+    "name": "Chatot",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 442,
+    "name": "Spiritomb",
+    "type1": "Ghost",
+    "type2": "Dark",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 443,
+    "name": "Gible",
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 444,
+    "name": "Gabite",
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 445,
+    "name": "Garchomp",
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 446,
+    "name": "Munchlax",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 447,
+    "name": "Riolu",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 448,
+    "name": "Lucario",
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 449,
+    "name": "Hippopotas",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 450,
+    "name": "Hippowdon",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 451,
+    "name": "Skorupi",
+    "type1": "Poison",
+    "type2": "Bug",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 452,
+    "name": "Drapion",
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 453,
+    "name": "Croagunk",
+    "type1": "Poison",
+    "type2": "Fighting",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 454,
+    "name": "Toxicroak",
+    "type1": "Poison",
+    "type2": "Fighting",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 455,
+    "name": "Carnivine",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 456,
+    "name": "Finneon",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 457,
+    "name": "Lumineon",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 458,
+    "name": "Mantyke",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 459,
+    "name": "Snover",
+    "type1": "Grass",
+    "type2": "Ice",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 460,
+    "name": "Abomasnow",
+    "type1": "Grass",
+    "type2": "Ice",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 461,
+    "name": "Weavile",
+    "type1": "Dark",
+    "type2": "Ice",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 462,
+    "name": "Magnezone",
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 463,
+    "name": "Lickilicky",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 464,
+    "name": "Rhyperior",
+    "type1": "Ground",
+    "type2": "Rock",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 465,
+    "name": "Tangrowth",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 466,
+    "name": "Electivire",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 467,
+    "name": "Magmortar",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 468,
+    "name": "Togekiss",
+    "type1": "Fairy",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 469,
+    "name": "Yanmega",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 470,
+    "name": "Leafeon",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 471,
+    "name": "Glaceon",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 472,
+    "name": "Gliscor",
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 473,
+    "name": "Mamoswine",
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 474,
+    "name": "Porygon-Z",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 475,
+    "name": "Gallade",
+    "type1": "Psychic",
+    "type2": "Fighting",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 476,
+    "name": "Probopass",
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 477,
+    "name": "Dusknoir",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 478,
+    "name": "Froslass",
+    "type1": "Ice",
+    "type2": "Ghost",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 479,
+    "name": "Rotom",
+    "type1": "Electric",
+    "type2": "Ghost",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 480,
+    "name": "Uxie",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 481,
+    "name": "Mesprit",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 482,
+    "name": "Azelf",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 483,
+    "name": "Dialga",
+    "type1": "Steel",
+    "type2": "Dragon",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 484,
+    "name": "Palkia",
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 485,
+    "name": "Heatran",
+    "type1": "Fire",
+    "type2": "Steel",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 486,
+    "name": "Regigigas",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 487,
+    "name": "Giratina",
+    "type1": "Ghost",
+    "type2": "Dragon",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 488,
+    "name": "Cresselia",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 489,
+    "name": "Phione",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 490,
+    "name": "Manaphy",
+    "type1": "Water",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 491,
+    "name": "Darkrai",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 492,
+    "name": "Shaymin",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 493,
+    "name": "Arceus",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 4,
+    "region": "Sinnoh",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 494,
+    "name": "Victini",
+    "type1": "Psychic",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 495,
+    "name": "Snivy",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 496,
+    "name": "Servine",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 497,
+    "name": "Serperior",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 498,
+    "name": "Tepig",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 499,
+    "name": "Pignite",
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 500,
+    "name": "Emboar",
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 501,
+    "name": "Oshawott",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 502,
+    "name": "Dewott",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 503,
+    "name": "Samurott",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 504,
+    "name": "Patrat",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 505,
+    "name": "Watchog",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 506,
+    "name": "Lillipup",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 507,
+    "name": "Herdier",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 508,
+    "name": "Stoutland",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 509,
+    "name": "Purrloin",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 510,
+    "name": "Liepard",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 511,
+    "name": "Pansage",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 512,
+    "name": "Simisage",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 513,
+    "name": "Pansear",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 514,
+    "name": "Simisear",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 515,
+    "name": "Panpour",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 516,
+    "name": "Simipour",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 517,
+    "name": "Munna",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 518,
+    "name": "Musharna",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 519,
+    "name": "Pidove",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 520,
+    "name": "Tranquill",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 521,
+    "name": "Unfezant",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 522,
+    "name": "Blitzle",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 523,
+    "name": "Zebstrika",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 524,
+    "name": "Roggenrola",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 525,
+    "name": "Boldore",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 526,
+    "name": "Gigalith",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 527,
+    "name": "Woobat",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 528,
+    "name": "Swoobat",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 529,
+    "name": "Drilbur",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 530,
+    "name": "Excadrill",
+    "type1": "Ground",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 531,
+    "name": "Audino",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 532,
+    "name": "Timburr",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 533,
+    "name": "Gurdurr",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 534,
+    "name": "Conkeldurr",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 535,
+    "name": "Tympole",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 536,
+    "name": "Palpitoad",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 537,
+    "name": "Seismitoad",
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 538,
+    "name": "Throh",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 539,
+    "name": "Sawk",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 540,
+    "name": "Sewaddle",
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 541,
+    "name": "Swadloon",
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 542,
+    "name": "Leavanny",
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 543,
+    "name": "Venipede",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 544,
+    "name": "Whirlipede",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 545,
+    "name": "Scolipede",
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 546,
+    "name": "Cottonee",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 547,
+    "name": "Whimsicott",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 548,
+    "name": "Petilil",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 549,
+    "name": "Lilligant",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 550,
+    "name": "Basculin",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 551,
+    "name": "Sandile",
+    "type1": "Ground",
+    "type2": "Dark",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 552,
+    "name": "Krokorok",
+    "type1": "Ground",
+    "type2": "Dark",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 553,
+    "name": "Krookodile",
+    "type1": "Ground",
+    "type2": "Dark",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 554,
+    "name": "Darumaka",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 555,
+    "name": "Darmanitan",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 556,
+    "name": "Maractus",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 557,
+    "name": "Dwebble",
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 558,
+    "name": "Crustle",
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 559,
+    "name": "Scraggy",
+    "type1": "Dark",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 560,
+    "name": "Scrafty",
+    "type1": "Dark",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 561,
+    "name": "Sigilyph",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 562,
+    "name": "Yamask",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 563,
+    "name": "Cofagrigus",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 564,
+    "name": "Tirtouga",
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 565,
+    "name": "Carracosta",
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 566,
+    "name": "Archen",
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 567,
+    "name": "Archeops",
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 568,
+    "name": "Trubbish",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 569,
+    "name": "Garbodor",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 570,
+    "name": "Zorua",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 571,
+    "name": "Zoroark",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 572,
+    "name": "Minccino",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 573,
+    "name": "Cinccino",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 574,
+    "name": "Gothita",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 575,
+    "name": "Gothorita",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 576,
+    "name": "Gothitelle",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 577,
+    "name": "Solosis",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 578,
+    "name": "Duosion",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 579,
+    "name": "Reuniclus",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 580,
+    "name": "Ducklett",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 581,
+    "name": "Swanna",
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 582,
+    "name": "Vanillite",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 583,
+    "name": "Vanillish",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 584,
+    "name": "Vanilluxe",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 585,
+    "name": "Deerling",
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 586,
+    "name": "Sawsbuck",
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 587,
+    "name": "Emolga",
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 588,
+    "name": "Karrablast",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 589,
+    "name": "Escavalier",
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 590,
+    "name": "Foongus",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 591,
+    "name": "Amoonguss",
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 592,
+    "name": "Frillish",
+    "type1": "Water",
+    "type2": "Ghost",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 593,
+    "name": "Jellicent",
+    "type1": "Water",
+    "type2": "Ghost",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 594,
+    "name": "Alomomola",
+    "type1": "Water",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 595,
+    "name": "Joltik",
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 596,
+    "name": "Galvantula",
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 597,
+    "name": "Ferroseed",
+    "type1": "Grass",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 598,
+    "name": "Ferrothorn",
+    "type1": "Grass",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 599,
+    "name": "Klink",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 600,
+    "name": "Klang",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 601,
+    "name": "Klinklang",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 602,
+    "name": "Tynamo",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 603,
+    "name": "Eelektrik",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 604,
+    "name": "Eelektross",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 605,
+    "name": "Elgyem",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 606,
+    "name": "Beheeyem",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 607,
+    "name": "Litwick",
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 608,
+    "name": "Lampent",
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 609,
+    "name": "Chandelure",
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 610,
+    "name": "Axew",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 611,
+    "name": "Fraxure",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 612,
+    "name": "Haxorus",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 613,
+    "name": "Cubchoo",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 614,
+    "name": "Beartic",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 615,
+    "name": "Cryogonal",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 616,
+    "name": "Shelmet",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 617,
+    "name": "Accelgor",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 618,
+    "name": "Stunfisk",
+    "type1": "Ground",
+    "type2": "Electric",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 619,
+    "name": "Mienfoo",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 620,
+    "name": "Mienshao",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 621,
+    "name": "Druddigon",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 622,
+    "name": "Golett",
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 623,
+    "name": "Golurk",
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 624,
+    "name": "Pawniard",
+    "type1": "Dark",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 625,
+    "name": "Bisharp",
+    "type1": "Dark",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 626,
+    "name": "Bouffalant",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 627,
+    "name": "Rufflet",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 628,
+    "name": "Braviary",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 629,
+    "name": "Vullaby",
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 630,
+    "name": "Mandibuzz",
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 631,
+    "name": "Heatmor",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 632,
+    "name": "Durant",
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 633,
+    "name": "Deino",
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 634,
+    "name": "Zweilous",
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 635,
+    "name": "Hydreigon",
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 636,
+    "name": "Larvesta",
+    "type1": "Bug",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 637,
+    "name": "Volcarona",
+    "type1": "Bug",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 638,
+    "name": "Cobalion",
+    "type1": "Steel",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 639,
+    "name": "Terrakion",
+    "type1": "Rock",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 640,
+    "name": "Virizion",
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 641,
+    "name": "Tornadus",
+    "type1": "Flying",
+    "type2": "",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 642,
+    "name": "Thundurus",
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 643,
+    "name": "Reshiram",
+    "type1": "Dragon",
+    "type2": "Fire",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 644,
+    "name": "Zekrom",
+    "type1": "Dragon",
+    "type2": "Electric",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 645,
+    "name": "Landorus",
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 646,
+    "name": "Kyurem",
+    "type1": "Dragon",
+    "type2": "Ice",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 647,
+    "name": "Keldeo",
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 648,
+    "name": "Meloetta",
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 649,
+    "name": "Genesect",
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "region": "Unova",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 650,
+    "name": "Chespin",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 651,
+    "name": "Quilladin",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 652,
+    "name": "Chesnaught",
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 653,
+    "name": "Fennekin",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 654,
+    "name": "Braixen",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 655,
+    "name": "Delphox",
+    "type1": "Fire",
+    "type2": "Psychic",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 656,
+    "name": "Froakie",
+    "type1": "Water",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 657,
+    "name": "Frogadier",
+    "type1": "Water",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 658,
+    "name": "Greninja",
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 659,
+    "name": "Bunnelby",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 660,
+    "name": "Diggersby",
+    "type1": "Normal",
+    "type2": "Ground",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 661,
+    "name": "Fletchling",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 662,
+    "name": "Fletchinder",
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 663,
+    "name": "Talonflame",
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 664,
+    "name": "Scatterbug",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 665,
+    "name": "Spewpa",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 666,
+    "name": "Vivillon",
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 667,
+    "name": "Litleo",
+    "type1": "Fire",
+    "type2": "Normal",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 668,
+    "name": "Pyroar",
+    "type1": "Fire",
+    "type2": "Normal",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 669,
+    "name": "Flabébé",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 670,
+    "name": "Floette",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 671,
+    "name": "Florges",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 672,
+    "name": "Skiddo",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 673,
+    "name": "Gogoat",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 674,
+    "name": "Pancham",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 675,
+    "name": "Pangoro",
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 676,
+    "name": "Furfrou",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 677,
+    "name": "Espurr",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 678,
+    "name": "Meowstic",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 679,
+    "name": "Honedge",
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 680,
+    "name": "Doublade",
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 681,
+    "name": "Aegislash",
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 682,
+    "name": "Spritzee",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 683,
+    "name": "Aromatisse",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 684,
+    "name": "Swirlix",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 685,
+    "name": "Slurpuff",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 686,
+    "name": "Inkay",
+    "type1": "Dark",
+    "type2": "Psychic",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 687,
+    "name": "Malamar",
+    "type1": "Dark",
+    "type2": "Psychic",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 688,
+    "name": "Binacle",
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 689,
+    "name": "Barbaracle",
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 690,
+    "name": "Skrelp",
+    "type1": "Poison",
+    "type2": "Water",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 691,
+    "name": "Dragalge",
+    "type1": "Poison",
+    "type2": "Dragon",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 692,
+    "name": "Clauncher",
+    "type1": "Water",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 693,
+    "name": "Clawitzer",
+    "type1": "Water",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 694,
+    "name": "Helioptile",
+    "type1": "Electric",
+    "type2": "Normal",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 695,
+    "name": "Heliolisk",
+    "type1": "Electric",
+    "type2": "Normal",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 696,
+    "name": "Tyrunt",
+    "type1": "Rock",
+    "type2": "Dragon",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 697,
+    "name": "Tyrantrum",
+    "type1": "Rock",
+    "type2": "Dragon",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 698,
+    "name": "Amaura",
+    "type1": "Rock",
+    "type2": "Ice",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 699,
+    "name": "Aurorus",
+    "type1": "Rock",
+    "type2": "Ice",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 700,
+    "name": "Sylveon",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 701,
+    "name": "Hawlucha",
+    "type1": "Fighting",
+    "type2": "Flying",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 702,
+    "name": "Dedenne",
+    "type1": "Electric",
+    "type2": "Fairy",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 703,
+    "name": "Carbink",
+    "type1": "Rock",
+    "type2": "Fairy",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 704,
+    "name": "Goomy",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 705,
+    "name": "Sliggoo",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 706,
+    "name": "Goodra",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 707,
+    "name": "Klefki",
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 708,
+    "name": "Phantump",
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 709,
+    "name": "Trevenant",
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 710,
+    "name": "Pumpkaboo",
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 711,
+    "name": "Gourgeist",
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 712,
+    "name": "Bergmite",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 713,
+    "name": "Avalugg",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 714,
+    "name": "Noibat",
+    "type1": "Flying",
+    "type2": "Dragon",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 715,
+    "name": "Noivern",
+    "type1": "Flying",
+    "type2": "Dragon",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 716,
+    "name": "Xerneas",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 717,
+    "name": "Yveltal",
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 718,
+    "name": "Zygarde",
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 719,
+    "name": "Diancie",
+    "type1": "Rock",
+    "type2": "Fairy",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 720,
+    "name": "Hoopa",
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 721,
+    "name": "Volcanion",
+    "type1": "Fire",
+    "type2": "Water",
+    "generation": 6,
+    "region": "Kalos",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 722,
+    "name": "Rowlet",
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 723,
+    "name": "Dartrix",
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 724,
+    "name": "Decidueye",
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 725,
+    "name": "Litten",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 726,
+    "name": "Torracat",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 727,
+    "name": "Incineroar",
+    "type1": "Fire",
+    "type2": "Dark",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 728,
+    "name": "Popplio",
+    "type1": "Water",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 729,
+    "name": "Brionne",
+    "type1": "Water",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 730,
+    "name": "Primarina",
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 731,
+    "name": "Pikipek",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 732,
+    "name": "Trumbeak",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 733,
+    "name": "Toucannon",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 734,
+    "name": "Yungoos",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 735,
+    "name": "Gumshoos",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 736,
+    "name": "Grubbin",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 737,
+    "name": "Charjabug",
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 738,
+    "name": "Vikavolt",
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 739,
+    "name": "Crabrawler",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 740,
+    "name": "Crabominable",
+    "type1": "Fighting",
+    "type2": "Ice",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 741,
+    "name": "Oricorio",
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 742,
+    "name": "Cutiefly",
+    "type1": "Bug",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 743,
+    "name": "Ribombee",
+    "type1": "Bug",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 744,
+    "name": "Rockruff",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 745,
+    "name": "Lycanroc",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 746,
+    "name": "Wishiwashi",
+    "type1": "Water",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 747,
+    "name": "Mareanie",
+    "type1": "Poison",
+    "type2": "Water",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 748,
+    "name": "Toxapex",
+    "type1": "Poison",
+    "type2": "Water",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 749,
+    "name": "Mudbray",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 750,
+    "name": "Mudsdale",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 751,
+    "name": "Dewpider",
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 752,
+    "name": "Araquanid",
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 753,
+    "name": "Fomantis",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 754,
+    "name": "Lurantis",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 755,
+    "name": "Morelull",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 756,
+    "name": "Shiinotic",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 757,
+    "name": "Salandit",
+    "type1": "Poison",
+    "type2": "Fire",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 758,
+    "name": "Salazzle",
+    "type1": "Poison",
+    "type2": "Fire",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 759,
+    "name": "Stufful",
+    "type1": "Normal",
+    "type2": "Fighting",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 760,
+    "name": "Bewear",
+    "type1": "Normal",
+    "type2": "Fighting",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 761,
+    "name": "Bounsweet",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 762,
+    "name": "Steenee",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 763,
+    "name": "Tsareena",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 764,
+    "name": "Comfey",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 765,
+    "name": "Oranguru",
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 766,
+    "name": "Passimian",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 767,
+    "name": "Wimpod",
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 768,
+    "name": "Golisopod",
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 769,
+    "name": "Sandygast",
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 770,
+    "name": "Palossand",
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 771,
+    "name": "Pyukumuku",
+    "type1": "Water",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 772,
+    "name": "Type: Null",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 773,
+    "name": "Silvally",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 774,
+    "name": "Minior",
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 775,
+    "name": "Komala",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 776,
+    "name": "Turtonator",
+    "type1": "Fire",
+    "type2": "Dragon",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 777,
+    "name": "Togedemaru",
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 778,
+    "name": "Mimikyu",
+    "type1": "Ghost",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 779,
+    "name": "Bruxish",
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 780,
+    "name": "Drampa",
+    "type1": "Normal",
+    "type2": "Dragon",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 781,
+    "name": "Dhelmise",
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 782,
+    "name": "Jangmo-o",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 783,
+    "name": "Hakamo-o",
+    "type1": "Dragon",
+    "type2": "Fighting",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 784,
+    "name": "Kommo-o",
+    "type1": "Dragon",
+    "type2": "Fighting",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 785,
+    "name": "Tapu Koko",
+    "type1": "Electric",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 786,
+    "name": "Tapu Lele",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 787,
+    "name": "Tapu Bulu",
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 788,
+    "name": "Tapu Fini",
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 789,
+    "name": "Cosmog",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 790,
+    "name": "Cosmoem",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 791,
+    "name": "Solgaleo",
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 792,
+    "name": "Lunala",
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 793,
+    "name": "Nihilego",
+    "type1": "Rock",
+    "type2": "Poison",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 794,
+    "name": "Buzzwole",
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 795,
+    "name": "Pheromosa",
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 796,
+    "name": "Xurkitree",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 797,
+    "name": "Celesteela",
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 798,
+    "name": "Kartana",
+    "type1": "Grass",
+    "type2": "Steel",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 799,
+    "name": "Guzzlord",
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 800,
+    "name": "Necrozma",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 801,
+    "name": "Magearna",
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 802,
+    "name": "Marshadow",
+    "type1": "Fighting",
+    "type2": "Ghost",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 803,
+    "name": "Poipole",
+    "type1": "Poison",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 804,
+    "name": "Naganadel",
+    "type1": "Poison",
+    "type2": "Dragon",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 805,
+    "name": "Stakataka",
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 806,
+    "name": "Blacephalon",
+    "type1": "Fire",
+    "type2": "Ghost",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 807,
+    "name": "Zeraora",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 808,
+    "name": "Meltan",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 809,
+    "name": "Melmetal",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 7,
+    "region": "Alola",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 810,
+    "name": "Grookey",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 811,
+    "name": "Thwackey",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 812,
+    "name": "Rillaboom",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 813,
+    "name": "Scorbunny",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 814,
+    "name": "Raboot",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 815,
+    "name": "Cinderace",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 816,
+    "name": "Sobble",
+    "type1": "Water",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 817,
+    "name": "Drizzile",
+    "type1": "Water",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 818,
+    "name": "Inteleon",
+    "type1": "Water",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 819,
+    "name": "Skwovet",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 820,
+    "name": "Greedent",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 821,
+    "name": "Rookidee",
+    "type1": "Flying",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 822,
+    "name": "Corvisquire",
+    "type1": "Flying",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 823,
+    "name": "Corviknight",
+    "type1": "Flying",
+    "type2": "Steel",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 824,
+    "name": "Blipbug",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 825,
+    "name": "Dottler",
+    "type1": "Bug",
+    "type2": "Psychic",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 826,
+    "name": "Orbeetle",
+    "type1": "Bug",
+    "type2": "Psychic",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 827,
+    "name": "Nickit",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 828,
+    "name": "Thievul",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 829,
+    "name": "Gossifleur",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 830,
+    "name": "Eldegoss",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 831,
+    "name": "Wooloo",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 832,
+    "name": "Dubwool",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 833,
+    "name": "Chewtle",
+    "type1": "Water",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 834,
+    "name": "Drednaw",
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 835,
+    "name": "Yamper",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 836,
+    "name": "Boltund",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 837,
+    "name": "Rolycoly",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 838,
+    "name": "Carkol",
+    "type1": "Rock",
+    "type2": "Fire",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 839,
+    "name": "Coalossal",
+    "type1": "Rock",
+    "type2": "Fire",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 840,
+    "name": "Applin",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 841,
+    "name": "Flapple",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 842,
+    "name": "Appletun",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 843,
+    "name": "Silicobra",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 844,
+    "name": "Sandaconda",
+    "type1": "Ground",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 845,
+    "name": "Cramorant",
+    "type1": "Flying",
+    "type2": "Water",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 846,
+    "name": "Arrokuda",
+    "type1": "Water",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 847,
+    "name": "Barraskewda",
+    "type1": "Water",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 848,
+    "name": "Toxel",
+    "type1": "Electric",
+    "type2": "Poison",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 849,
+    "name": "Toxtricity",
+    "type1": "Electric",
+    "type2": "Poison",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 850,
+    "name": "Sizzlipede",
+    "type1": "Fire",
+    "type2": "Bug",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 851,
+    "name": "Centiskorch",
+    "type1": "Fire",
+    "type2": "Bug",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 852,
+    "name": "Clobbopus",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 853,
+    "name": "Grapploct",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 854,
+    "name": "Sinistea",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 855,
+    "name": "Polteageist",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 856,
+    "name": "Hatenna",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 857,
+    "name": "Hattrem",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 858,
+    "name": "Hatterene",
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 859,
+    "name": "Impidimp",
+    "type1": "Dark",
+    "type2": "Fairy",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 860,
+    "name": "Morgrem",
+    "type1": "Dark",
+    "type2": "Fairy",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 861,
+    "name": "Grimmsnarl",
+    "type1": "Dark",
+    "type2": "Fairy",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 862,
+    "name": "Obstagoon",
+    "type1": "Dark",
+    "type2": "Normal",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 863,
+    "name": "Perrserker",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 864,
+    "name": "Cursola",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 865,
+    "name": "Sirfetch'd",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 866,
+    "name": "Mr. Rime",
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 867,
+    "name": "Runerigus",
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 868,
+    "name": "Milcery",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 869,
+    "name": "Alcremie",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 870,
+    "name": "Falinks",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 871,
+    "name": "Pincurchin",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 872,
+    "name": "Snom",
+    "type1": "Ice",
+    "type2": "Bug",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 873,
+    "name": "Frosmoth",
+    "type1": "Ice",
+    "type2": "Bug",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 874,
+    "name": "Stonjourner",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 875,
+    "name": "Eiscue",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 876,
+    "name": "Indeedee",
+    "type1": "Psychic",
+    "type2": "Normal",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 877,
+    "name": "Morpeko",
+    "type1": "Electric",
+    "type2": "Dark",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 878,
+    "name": "Cufant",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 879,
+    "name": "Copperajah",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 880,
+    "name": "Dracozolt",
+    "type1": "Electric",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 881,
+    "name": "Arctozolt",
+    "type1": "Electric",
+    "type2": "Ice",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 882,
+    "name": "Dracovish",
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 883,
+    "name": "Arctovish",
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 884,
+    "name": "Duraludon",
+    "type1": "Steel",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 885,
+    "name": "Dreepy",
+    "type1": "Dragon",
+    "type2": "Ghost",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 886,
+    "name": "Drakloak",
+    "type1": "Dragon",
+    "type2": "Ghost",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 887,
+    "name": "Dragapult",
+    "type1": "Dragon",
+    "type2": "Ghost",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 888,
+    "name": "Zacian",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 889,
+    "name": "Zamazenta",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 890,
+    "name": "Eternatus",
+    "type1": "Poison",
+    "type2": "Dragon",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 891,
+    "name": "Kubfu",
+    "type1": "Fighting",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 892,
+    "name": "Urshifu",
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 893,
+    "name": "Zarude",
+    "type1": "Dark",
+    "type2": "Grass",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 894,
+    "name": "Regieleki",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 895,
+    "name": "Regidrago",
+    "type1": "Dragon",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 896,
+    "name": "Glastrier",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 897,
+    "name": "Spectrier",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 898,
+    "name": "Calyrex",
+    "type1": "Psychic",
+    "type2": "Grass",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 899,
+    "name": "Wyrdeer",
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 900,
+    "name": "Kleavor",
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 901,
+    "name": "Ursaluna",
+    "type1": "Ground",
+    "type2": "Normal",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 902,
+    "name": "Basculegion",
+    "type1": "Water",
+    "type2": "Ghost",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 903,
+    "name": "Sneasler",
+    "type1": "Fighting",
+    "type2": "Poison",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 904,
+    "name": "Overqwil",
+    "type1": "Dark",
+    "type2": "Poison",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 905,
+    "name": "Enamorus",
+    "type1": "Fairy",
+    "type2": "Flying",
+    "generation": 8,
+    "region": "Galar/Hisui",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 906,
+    "name": "Sprigatito",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 907,
+    "name": "Floragato",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 908,
+    "name": "Meowscarada",
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 909,
+    "name": "Fuecoco",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 910,
+    "name": "Crocalor",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 911,
+    "name": "Skeledirge",
+    "type1": "Fire",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 912,
+    "name": "Quaxly",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 913,
+    "name": "Quaxwell",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 914,
+    "name": "Quaquaval",
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 915,
+    "name": "Lechonk",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 916,
+    "name": "Oinkologne",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 917,
+    "name": "Tarountula",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 918,
+    "name": "Spidops",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 919,
+    "name": "Nymble",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 920,
+    "name": "Lokix",
+    "type1": "Bug",
+    "type2": "Dark",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 921,
+    "name": "Pawmi",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 922,
+    "name": "Pawmo",
+    "type1": "Electric",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 923,
+    "name": "Pawmot",
+    "type1": "Electric",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 924,
+    "name": "Tandemaus",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 925,
+    "name": "Maushold",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 926,
+    "name": "Fidough",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 927,
+    "name": "Dachsbun",
+    "type1": "Fairy",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 928,
+    "name": "Smoliv",
+    "type1": "Grass",
+    "type2": "Normal",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 929,
+    "name": "Dolliv",
+    "type1": "Grass",
+    "type2": "Normal",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 930,
+    "name": "Arboliva",
+    "type1": "Grass",
+    "type2": "Normal",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 931,
+    "name": "Squawkabilly",
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 932,
+    "name": "Nacli",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 933,
+    "name": "Naclstack",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 934,
+    "name": "Garganacl",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 935,
+    "name": "Charcadet",
+    "type1": "Fire",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 936,
+    "name": "Armarouge",
+    "type1": "Fire",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 937,
+    "name": "Ceruledge",
+    "type1": "Fire",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 938,
+    "name": "Tadbulb",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 939,
+    "name": "Bellibolt",
+    "type1": "Electric",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 940,
+    "name": "Wattrel",
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 941,
+    "name": "Kilowattrel",
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 942,
+    "name": "Maschiff",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 943,
+    "name": "Mabosstiff",
+    "type1": "Dark",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 944,
+    "name": "Shroodle",
+    "type1": "Poison",
+    "type2": "Normal",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 945,
+    "name": "Grafaiai",
+    "type1": "Poison",
+    "type2": "Normal",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 946,
+    "name": "Bramblin",
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 947,
+    "name": "Brambleghast",
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 948,
+    "name": "Toedscool",
+    "type1": "Ground",
+    "type2": "Grass",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 949,
+    "name": "Toedscruel",
+    "type1": "Ground",
+    "type2": "Grass",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 950,
+    "name": "Klawf",
+    "type1": "Rock",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 951,
+    "name": "Capsakid",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 952,
+    "name": "Scovillain",
+    "type1": "Grass",
+    "type2": "Fire",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 953,
+    "name": "Rellor",
+    "type1": "Bug",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 954,
+    "name": "Rabsca",
+    "type1": "Bug",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 955,
+    "name": "Flittle",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 956,
+    "name": "Espathra",
+    "type1": "Psychic",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 957,
+    "name": "Tinkatink",
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 958,
+    "name": "Tinkatuff",
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 959,
+    "name": "Tinkaton",
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 960,
+    "name": "Wiglett",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 961,
+    "name": "Wugtrio",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 962,
+    "name": "Bombirdier",
+    "type1": "Flying",
+    "type2": "Dark",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 963,
+    "name": "Finizen",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 964,
+    "name": "Palafin",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 965,
+    "name": "Varoom",
+    "type1": "Steel",
+    "type2": "Poison",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 966,
+    "name": "Revavroom",
+    "type1": "Steel",
+    "type2": "Poison",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 967,
+    "name": "Cyclizar",
+    "type1": "Dragon",
+    "type2": "Normal",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 968,
+    "name": "Orthworm",
+    "type1": "Steel",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 969,
+    "name": "Glimmet",
+    "type1": "Rock",
+    "type2": "Poison",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 970,
+    "name": "Glimmora",
+    "type1": "Rock",
+    "type2": "Poison",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 971,
+    "name": "Greavard",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 972,
+    "name": "Houndstone",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 973,
+    "name": "Flamigo",
+    "type1": "Flying",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 974,
+    "name": "Cetoddle",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 975,
+    "name": "Cetitan",
+    "type1": "Ice",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 976,
+    "name": "Veluza",
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 977,
+    "name": "Dondozo",
+    "type1": "Water",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 978,
+    "name": "Tatsugiri",
+    "type1": "Dragon",
+    "type2": "Water",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 979,
+    "name": "Annihilape",
+    "type1": "Fighting",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 980,
+    "name": "Clodsire",
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 981,
+    "name": "Farigiraf",
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 982,
+    "name": "Dudunsparce",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 983,
+    "name": "Kingambit",
+    "type1": "Dark",
+    "type2": "Steel",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 984,
+    "name": "Great Tusk",
+    "type1": "Ground",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 985,
+    "name": "Scream Tail",
+    "type1": "Fairy",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 986,
+    "name": "Brute Bonnet",
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 987,
+    "name": "Flutter Mane",
+    "type1": "Ghost",
+    "type2": "Fairy",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 988,
+    "name": "Slither Wing",
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 989,
+    "name": "Sandy Shocks",
+    "type1": "Electric",
+    "type2": "Ground",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 990,
+    "name": "Iron Treads",
+    "type1": "Ground",
+    "type2": "Steel",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 991,
+    "name": "Iron Bundle",
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 992,
+    "name": "Iron Hands",
+    "type1": "Fighting",
+    "type2": "Electric",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 993,
+    "name": "Iron Jugulis",
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 994,
+    "name": "Iron Moth",
+    "type1": "Fire",
+    "type2": "Poison",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 995,
+    "name": "Iron Thorns",
+    "type1": "Rock",
+    "type2": "Electric",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 996,
+    "name": "Frigibax",
+    "type1": "Dragon",
+    "type2": "Ice",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 997,
+    "name": "Arctibax",
+    "type1": "Dragon",
+    "type2": "Ice",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 998,
+    "name": "Baxcalibur",
+    "type1": "Dragon",
+    "type2": "Ice",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 999,
+    "name": "Gimmighoul",
+    "type1": "Ghost",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1000,
+    "name": "Gholdengo",
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1001,
+    "name": "Wo-Chien",
+    "type1": "Dark",
+    "type2": "Grass",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1002,
+    "name": "Chien-Pao",
+    "type1": "Dark",
+    "type2": "Ice",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1003,
+    "name": "Ting-Lu",
+    "type1": "Dark",
+    "type2": "Ground",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1004,
+    "name": "Chi-Yu",
+    "type1": "Dark",
+    "type2": "Fire",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1005,
+    "name": "Roaring Moon",
+    "type1": "Dragon",
+    "type2": "Dark",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1006,
+    "name": "Iron Valiant",
+    "type1": "Fairy",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1007,
+    "name": "Koraidon",
+    "type1": "Fighting",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1008,
+    "name": "Miraidon",
+    "type1": "Electric",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1009,
+    "name": "Walking Wake",
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1010,
+    "name": "Iron Leaves",
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1011,
+    "name": "Dipplin",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1012,
+    "name": "Poltchageist",
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 1013,
+    "name": "Sinistcha",
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1014,
+    "name": "Okidogi",
+    "type1": "Poison",
+    "type2": "Fighting",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1015,
+    "name": "Munkidori",
+    "type1": "Poison",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1016,
+    "name": "Fezandipiti",
+    "type1": "Poison",
+    "type2": "Fairy",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1017,
+    "name": "Ogerpon",
+    "type1": "Grass",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1018,
+    "name": "Archaludon",
+    "type1": "Steel",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1019,
+    "name": "Hydrapple",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1020,
+    "name": "Gouging Fire",
+    "type1": "Fire",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1021,
+    "name": "Raging Bolt",
+    "type1": "Electric",
+    "type2": "Dragon",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1022,
+    "name": "Iron Boulder",
+    "type1": "Rock",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": false,
+    "number": 1023,
+    "name": "Iron Crown",
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1024,
+    "name": "Terapagos",
+    "type1": "Normal",
+    "type2": "",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  },
+  {
+    "caught": true,
+    "number": 1025,
+    "name": "Pecharunt",
+    "type1": "Poison",
+    "type2": "Ghost",
+    "generation": 9,
+    "region": "Paldea",
+    "notes": ""
+  }
+]

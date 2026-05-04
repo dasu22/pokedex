@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pokédex Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <span class="logo">&#x26A1; Pokédex Tracker</span>
+      <nav class="tabs">
+        <button class="tab-btn active" data-tab="pokemon">Pokémon</button>
+        <button class="tab-btn" data-tab="summary">Summary</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Pokemon Tab -->
+    <div id="tab-pokemon" class="tab-panel active">
+      <div class="filters">
+        <input type="text" id="search" placeholder="Search by name…" />
+        <select id="filter-region">
+          <option value="">All Regions</option>
+        </select>
+        <select id="filter-type">
+          <option value="">All Types</option>
+        </select>
+        <select id="filter-caught">
+          <option value="">All</option>
+          <option value="caught">Caught</option>
+          <option value="missing">Missing</option>
+        </select>
+        <button id="btn-reset-filters">Reset</button>
+      </div>
+      <div class="table-wrap">
+        <table id="pokemon-table">
+          <thead>
+            <tr>
+              <th class="col-caught">Caught</th>
+              <th class="col-num sortable" data-col="number"># <span class="sort-icon">↕</span></th>
+              <th class="col-name sortable" data-col="name">Name <span class="sort-icon">↕</span></th>
+              <th class="col-type">Type 1</th>
+              <th class="col-type">Type 2</th>
+              <th class="col-gen sortable" data-col="generation">Gen <span class="sort-icon">↕</span></th>
+              <th class="col-region">Region</th>
+              <th class="col-notes">Notes</th>
+            </tr>
+          </thead>
+          <tbody id="pokemon-body"></tbody>
+        </table>
+      </div>
+      <div id="pokemon-count" class="row-count"></div>
+    </div>
+
+    <!-- Summary Tab -->
+    <div id="tab-summary" class="tab-panel">
+      <div class="summary-header">
+        <h2>Pokédex Progress</h2>
+        <div id="overall-progress" class="overall-progress">
+          <div class="overall-bar-wrap">
+            <div id="overall-bar" class="overall-bar"></div>
+          </div>
+          <div id="overall-label" class="overall-label"></div>
+        </div>
+      </div>
+      <div class="summary-grid" id="summary-grid"></div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

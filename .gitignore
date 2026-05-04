@@ -1,0 +1,5 @@
+/target
+node_modules/
+analyze_xlsx.js
+read_xlsx.js
+.claude/
