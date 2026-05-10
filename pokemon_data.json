@@ -7840,7 +7840,7 @@
     "notes": ""
   },
   {
-    "caught": false,
+    "caught": true,
     "number": 785,
     "name": "Tapu Koko",
     "type1": "Electric",
